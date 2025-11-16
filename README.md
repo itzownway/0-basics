@@ -3,7 +3,11 @@
   Key Of Developemnt
   
         - Oops
-        - Debug(RCA, Quick Fixes, Reading Logs)
+        
+        - Debug
+           - RCA
+           - Quick Fixes
+           - Reading Logs
         
         - Error Handling
                 - Fallback
@@ -50,7 +54,6 @@
             
 
 ### Concept Of Software Development (no matter what language )
-
 ##### Application Flow
 
        user(frontend flow)
@@ -99,9 +102,7 @@
             - API Optimization
             - Memory Optimization
          
-
 ##### Setup Tools
-
      why need
             - nginx
             - php / java / python
@@ -113,11 +114,7 @@
             - Redis
             - RabbitMQ / Kafka
             - Varnish
-            
-   
-        
 ##### Frontend 
-
           - RWD 
           - Skeleton - preloaded
           - Lazy Loading
@@ -134,31 +131,27 @@
       - Push Notifications
       - Background Sync
       - App Manifest
-
-
+      
 ##### API
         - REST APIS (Swaggr / Postman) 
         - GraphQl (GraphQl Altair)
         - Response Status Codes
              
 ##### Backend
-
-         - Business Logic Layer
-         - Authentication & Authorization
-         - OAuth / JWT
-         - Session Handling
-         - Caching
-         - Event-driven architecture
-         - Microservices
-         - Serverless Functions
-         - Data Validation
-         - File Uploads
-         - Error Logging
-             - Sentry / ELK / Loki
-             
-
+     - Business Logic Layer
+     - Authentication & Authorization
+     - OAuth / JWT
+     - Session Handling
+     - Caching
+     - Event-driven architecture
+     - Microservices
+     - Serverless Functions
+     - Data Validation
+     - File Uploads
+     - Error Logging
+     - Sentry / ELK / Loki
+          
 ##### Database 
-
         - relational
                - Mysql
                - PostgreSQL
@@ -183,7 +176,6 @@
            
                
 ##### Security 
-
          - OWASP Top 10
          - SQL Injection
          - XSS
