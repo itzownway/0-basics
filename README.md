@@ -1,6 +1,7 @@
 # Basics
 
   Key Of Developemnt
+  
         - Oops
         - Debug(RCA, Quick Fixes, Reading Logs)
         
