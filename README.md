@@ -4,7 +4,14 @@
   
         - Oops
         
-        - Debug
+        - Debug 
+           - Alway's study and find hack about latest way how to debug faster
+                 |
+                 |-- e,g - directly debug to staging / production
+                 |-- get staging and production db 
+                 |-- check in network and console always
+                 |-- print hardcoded value 
+                 |-- faster wat to debug -- write custom script or anything which is easy and faster
            - RCA
            - Quick Fixes
            - Reading Logs
